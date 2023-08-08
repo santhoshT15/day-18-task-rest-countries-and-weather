@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(118, 116, 115);
+   
+    
+   }
+  
+  .card-header{
+    background-color: rgb(19, 18, 18);
+    color: white;
+    text-transform: uppercase;
+  } 
+
+  .card{
+     background: rgb(254,175,210);
+     background: linear-gradient(to right, rgb(252, 187, 56) 20%, rgb(193, 179, 153) ); 
+  }
+
+  .card-text{
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  img{
+    border: 1px solid white;
+  
+  }
+  .btn{
+    width: 18em;
+  }
